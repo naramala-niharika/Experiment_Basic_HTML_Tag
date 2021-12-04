@@ -27,4 +27,4 @@ Execute the program fff
 ~~~
 
 ## output
-![output]()
+![output](https://github.com/naramala-niharika/Experiment_Basic_HTML_Tag/blob/main/Screenshot%202021-12-04%20154932.png?raw=true)
