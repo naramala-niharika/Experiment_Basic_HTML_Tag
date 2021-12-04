@@ -18,18 +18,13 @@ Execute the program fff
 <html>
 
 <body>
-<h1>Name: Karthi govindharaju</h1>
-<h3>Designation: Assistant Professor (SG) /h3>
-<h5>Dept.:Artificial Intelligence and Data Science</h5>
+<h1>Name: </h1>Naramala Niharika
+<h3>Designation: student (SG) /h3>
+<h5>Dept.:Artificial Intelligence and Machine  learning</h5>
 </body>
 
 </html>
 ~~~
-# OUPUT
-<html>
-<body>
-<h1>Name: Karthi govindharaju</h1>
-<h3>Designation: Assistant Professor (SG)</h3>
-<h5>Dept.:Artificial Intelligence and Data Science</h5>
-</body>
-</html>
+
+## output
+![output]()
